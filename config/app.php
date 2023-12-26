@@ -15,6 +15,7 @@ return [
     | any other location as required by the application or its packages.
     |
     */
+    'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 
     'name' => env('APP_NAME', 'Laravel'),
 
